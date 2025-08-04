@@ -5,7 +5,6 @@ let selectedActivity = null;
 let squirrelData = [];
 d3.csv("squirrel_cleaned.csv").then(squirrel => {
   squirrelData = squirrel;
-  initParkDropdown();
   updateScene();
 });
 
@@ -192,20 +191,6 @@ function drawParkMap() {
     .on("click", function (event, d) {
       onParkClick(d.park_name);
     });
-
-  // Add park labels for major parks
-  svg.selectAll("text")
-    .data(parkData.filter(d => d.count > 5))
-    .enter()
-    .append("text")
-    .attr("x", d => projection([d.longitude, d.latitude])[0])
-    .attr("y", d => projection([d.longitude, d.latitude])[1] + radiusScale(d.count) + 20)
-    .attr("dy", "0.35em")
-    .attr("text-anchor", "middle")
-    .attr("font-size", "11px")
-    .attr("font-weight", "bold")
-    .attr("fill", "#2c3e50")
-    .text(d => d.park_name.length > 15 ? d.park_name.substring(0,15) + "..." : d.park_name);
 
   // Add title
   svg.append("text")
