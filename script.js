@@ -60,6 +60,7 @@ function prevScene() {
 
 function updateScene() {
   d3.select("#vis").html("");
+  d3.selectAll(".tooltip").remove();
   updateBreadcrumb();
   
   switch(sceneNum) {
