@@ -189,8 +189,9 @@ function drawParkMap() {
       tooltip.transition().duration(500).style("opacity", 0);
     })
     .on("click", function (event, d) {
-      onParkClick(d.park_name);
-    });
+    tooltip.style("opacity", 0);
+    onColorClick(d.color);
+  });
 
   // Add title
   svg.append("text")
@@ -299,7 +300,8 @@ function drawSquirrelColors(park) {
       tooltip.transition().duration(500).style("opacity", 0);
     })
     .on("click", function (event, d) {
-      onColorClick(d.color);
+    tooltip.style("opacity", 0); // <- Hide tooltip on click
+    onColorClick(d.color);
     });
 
   // Add value labels on bars
@@ -443,8 +445,9 @@ function drawSquirrelActivities(park, color) {
     .on("mouseout", function () {
       tooltip.transition().duration(500).style("opacity", 0);
     })
-    .on("click", function (event, d) {
-      onActivityClick(d.activity);
+   .on("click", function (event, d) {
+    tooltip.style("opacity", 0); // <- Hide tooltip on click
+    onColorClick(d.color);
     });
 
   // Add value labels
