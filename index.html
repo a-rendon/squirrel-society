@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Squirrel Society - Interactive Drill-Down</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="header">
+    <h1>🐿️ Squirrel Society: NYC's Urban Wildlife</h1>
+    <p>An interactive exploration of squirrel behaviors across New York City parks</p>
+  </div>
+
+  <div id="controls">
+    <div id="breadcrumb">Scene 0: Park Overview</div>
+    <div id="navigation">
+      <button onclick="goHome()" id="homeBtn">🏠 Home</button>
+      <button onclick="prevScene()" id="prevBtn" disabled>◀ Previous</button>
+      <button onclick="nextScene()" id="nextBtn" disabled>Next ▶</button>
+    </div>
+  </div>
+
+  <div id="vis"></div>
+  
+  <div id="vis-wrapper">
+    <div id="vis"></div>
+    <div id="annotation-panel"></div>
+  </div>
+
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="neighborhoodData.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

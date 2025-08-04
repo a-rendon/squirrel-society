@@ -1,0 +1,342 @@
+park_name,fur_color,activities,interaction,latitude,longitude
+Fort Tryon Park,Gray,['Foraging'],Indifferent,40.85941,-73.933936
+Fort Tryon Park,Gray,['Foraging'],Indifferent,40.859436,-73.933937
+Fort Tryon Park,Gray,"['Eating', 'Digging something']",Indifferent,40.859416,-73.933894
+Fort Tryon Park,Gray,['Running'],Indifferent,40.859418,-73.933895
+Fort Tryon Park,Gray,"['Running', 'Eating']",Indifferent,40.859493,-73.93359
+Fort Tryon Park,Gray,['Climbing'],Indifferent,40.860825,-73.932871
+Fort Tryon Park,Gray,['Foraging'],Indifferent,40.860225,-73.933143
+Fort Tryon Park,Black,['Climbing'],Runs From,40.859965,-73.933412
+Fort Tryon Park,Gray,['Foraging'],Indifferent,40.859892,-73.933326
+Fort Tryon Park,Gray,"['Eating', 'Digging']",Indifferent,40.859636,-73.933717
+Fort Tryon Park,Gray,"['Eating', 'Digging']",Indifferent,40.859576,-73.933738
+Fort Tryon Park,Gray,['Running'],Runs From,40.859989,-73.934544
+J. Hood Wright Park,Gray,['Running'],Indifferent,40.845749,-73.9407
+J. Hood Wright Park,Gray,['Foraging'],Indifferent,40.845875,-73.940808
+J. Hood Wright Park,Gray,['Foraging'],Unknown,40.845875,-73.940808
+J. Hood Wright Park,Gray,['Running'],Indifferent,40.846088,-73.940613
+J. Hood Wright Park,Gray,['Running'],Runs From,40.846088,-73.940613
+J. Hood Wright Park,Gray,['Foraging'],Indifferent,40.846088,-73.940613
+J. Hood Wright Park,Gray,[],Runs From,40.846222,-73.94094
+J. Hood Wright Park,Gray,"['Foraging', 'Nesting/gathering leaves']",Indifferent,40.846222,-73.94094
+J. Hood Wright Park,Gray,['Chasing'],Indifferent,40.846197,-73.941026
+J. Hood Wright Park,Gray,['Running'],Indifferent,40.846185,-73.940613
+J. Hood Wright Park,Gray,['Eating'],Runs From,40.846271,-73.940579
+J. Hood Wright Park,Gray,['Climbing'],Indifferent,40.846332,-73.940369
+J. Hood Wright Park,Gray,['Sleeping'],Indifferent,40.846332,-73.940369
+J. Hood Wright Park,Gray,['Running'],Indifferent,40.846332,-73.940369
+J. Hood Wright Park,Gray,['Running'],Indifferent,40.846458,-73.94103
+J. Hood Wright Park,Gray,['Eating'],Indifferent,40.846417,-73.941115
+J. Hood Wright Park,Gray,['Running'],Indifferent,40.846296,-73.941132
+J. Hood Wright Park,Gray,['Foraging'],Indifferent,40.846064,-73.941497
+J. Hood Wright Park,Gray,['Climbing'],Indifferent,40.846065,-73.941498
+J. Hood Wright Park,Gray,['Foraging'],Indifferent,40.847296,-73.942061
+J. Hood Wright Park,Gray,['Foraging'],Runs From,40.847259,-73.941598
+J. Hood Wright Park,Gray,['Foraging'],Indifferent,40.84719,-73.941308
+J. Hood Wright Park,Gray,['Eating'],Indifferent,40.84719,-73.941308
+J. Hood Wright Park,Cinnamon,['Sitting'],Indifferent,40.847113,-73.940937
+Highbridge Park,Gray,"['Chasing', 'Climbing']",Watches us from tree,40.841178,-73.935482
+Highbridge Park,Gray,"['Chasing', 'Climbing', 'Eating']",Runs From,40.841204,-73.935434
+Highbridge Park,Gray,['Running'],Unknown,40.841212,-73.934827
+Highbridge Park,Gray,['Climbing'],Unknown,40.841217,-73.934714
+Highbridge Park,Gray,['Running'],Runs From,40.841359,-73.934339
+Highbridge Park,Gray,['Running'],"Runs From, watchful",40.841375,-73.934242
+Highbridge Park,Gray,['Running'],Runs From,40.841375,-73.934242
+Highbridge Park,Gray,"['Running', 'Chasing', 'Climbing']",Runs From,40.842308,-73.933061
+Highbridge Park,Gray,[],Unknown,40.842401,-73.932986
+Highbridge Park,Gray,"['Climbing', 'Foraging']",Watching us from tree - very interested in us,40.842511,-73.932916
+Highbridge Park,Gray,['Vocalization at us'],"Approaches, watching us",40.842673,-73.932793
+Highbridge Park,Gray,"['Running', 'Foraging']",Runs From,40.842795,-73.933002
+Highbridge Park,Gray,"['Running', 'Eating']","Runs From, watches us in short tree",40.842327,-73.934269
+Highbridge Park,Gray,['Jumped to building'],Unknown,40.842359,-73.934177
+Highbridge Park,Gray,"['Eating', 'Foraging']",Indifferent,40.842769,-73.934478
+St. Nicholas Park,Gray,['Climbing'],Indifferent,40.817593,-73.948855
+St. Nicholas Park,Black,['Foraging'],Indifferent,40.817719,-73.948855
+St. Nicholas Park,Gray,['Eating'],Indifferent,40.817719,-73.948914
+St. Nicholas Park,Gray,['Foraging'],Indifferent,40.817711,-73.949118
+St. Nicholas Park,Gray,"['Climbing', 'Eating']",Indifferent,40.817569,-73.948931
+St. Nicholas Park,Gray,"['Chasing', 'Climbing']",Indifferent,40.817544,-73.949016
+St. Nicholas Park,Gray,"['Chasing', 'Climbing']",Indifferent,40.817544,-73.949016
+St. Nicholas Park,Gray,['Running'],Runs From,40.817479,-73.949006
+St. Nicholas Park,Gray,['Foraging'],Indifferent,40.816685,-73.949689
+St. Nicholas Park,Gray,['Foraging'],Indifferent,40.816677,-73.949549
+St. Nicholas Park,Black,['Foraging'],Indifferent,40.816555,-73.949609
+St. Nicholas Park,Gray,['Foraging'],Indifferent,40.816506,-73.949587
+St. Nicholas Park,Gray,['Running'],Indifferent,40.816425,-73.949474
+St. Nicholas Park,Gray,['Foraging'],Indifferent,40.818308,-73.948952
+St. Nicholas Park,Gray,['Foraging'],Indifferent,40.818263,-73.948909
+Marcus Garvey Park,Gray,['Climbing'],Indifferent,40.804912,-73.943735
+Marcus Garvey Park,Gray,['Climbing'],Indifferent,40.804912,-73.943736
+Marcus Garvey Park,Gray,['Climbing'],Indifferent,40.804913,-73.943735
+Marcus Garvey Park,Gray,['Climbing'],Indifferent,40.804915,-73.943737
+Marcus Garvey Park,Gray,['Climbing'],Indifferent,40.804916,-73.943735
+Marcus Garvey Park,Gray,['Climbing'],Indifferent,40.804914,-73.943736
+Marcus Garvey Park,Gray,['Climbing'],Indifferent,40.804917,-73.943737
+Marcus Garvey Park,Black,['Climbing'],Unknown,40.804912,-73.943738
+Marcus Garvey Park,Gray,"['Chasing', 'Climbing', 'Eating']",Indifferent,40.804701,-73.944118
+Marcus Garvey Park,Gray,"['Chasing', 'Climbing', 'Eating']",Indifferent,40.804746,-73.94374
+Marcus Garvey Park,Gray,"['Chasing', 'Climbing', 'Eating']",Indifferent,40.804912,-73.94408
+Marcus Garvey Park,Gray,"['Chasing', 'Climbing', 'Eating']",Indifferent,40.804729,-73.944053
+Marcus Garvey Park,Gray,['Climbing'],Unknown,40.804713,-73.944032
+Marcus Garvey Park,Gray,"['Climbing', 'Eating']",Unknown,40.804613,-73.943829
+Marcus Garvey Park,Gray,"['Climbing', 'Eating']",Unknown,40.804564,-73.943824
+Marcus Garvey Park,Gray,['Running'],Unknown,40.804253,-73.944121
+Marcus Garvey Park,Gray,['Running'],Unknown,40.803758,-73.94433
+Marcus Garvey Park,Gray,"['Sitting', 'shouting']",Indifferent,40.803616,-73.944464
+Marcus Garvey Park,Gray,"['Sitting', 'shouting']",Indifferent,40.803413,-73.944207
+Marcus Garvey Park,Gray,"['Sitting', 'shouting']",Indifferent,40.80338,-73.944148
+Marcus Garvey Park,Gray,"['Sitting', 'shouting']",Indifferent,40.803392,-73.944228
+Marcus Garvey Park,Gray,"['Defending tree', 'shouting']","Indifferent, Preoccupied by HAAWK",40.803794,-73.944003
+Marcus Garvey Park,Gray,"['Defending tree', 'shouting']","Indifferent, Preoccupied by HAAWK",40.803795,-73.944003
+Marcus Garvey Park,Gray,"['Defending tree', 'shouting']","Indifferent, Preoccupied by HAAWK",40.803794,-73.944004
+Marcus Garvey Park,Gray,"['Defending tree', 'shouting']","Indifferent, Preoccupied by HAAWK",40.803794,-73.944005
+Marcus Garvey Park,Gray,"['Defending tree', 'shouting']","Indifferent, Preoccupied by HAAWK",40.803796,-73.944003
+Marcus Garvey Park,Gray,"['Defending tree', 'shouting']","Indifferent, Preoccupied by HAAWK",40.803795,-73.944004
+Marcus Garvey Park,Gray,['Eating'],Indifferent,40.80362,-73.944067
+Marcus Garvey Park,Gray,"['Chasing', 'Climbing']",Runs From,40.80352,-73.943629
+Marcus Garvey Park,Gray,"['Chasing', 'Climbing']",Runs From,40.803507,-73.943661
+Marcus Garvey Park,Gray,['Climbing'],Unknown,40.803981,-73.943327
+Marcus Garvey Park,Gray,['Climbing'],Unknown,40.804123,-73.943402
+Marcus Garvey Park,Black,['Cleaning'],Unknown,40.803981,-73.943273
+Marcus Garvey Park,Gray,['Climbing'],Runs From,40.804878,-73.942781
+Madison Square Park,Gray,['Foraging'],Indifferent,40.74145,-73.987884
+Madison Square Park,Gray,['Sitting'],Unknown,40.742255,-73.987433
+Madison Square Park,Gray,['Foraging'],Indifferent,40.742556,-73.986971
+Madison Square Park,Gray,['Resting in tree'],Unknown,40.742792,-73.987046
+Madison Square Park,Gray,['Running'],Indifferent,40.74288,-73.987663
+Madison Square Park,Gray,['Sitting'],Indifferent,40.742421,-73.98808
+Madison Square Park,Gray,['Sitting'],Indifferent,40.742421,-73.98808
+Madison Square Park,Gray,['Foraging'],Indifferent,40.742807,-73.988435
+Madison Square Park,Gray,['Foraging'],Indifferent,40.741528,-73.988324
+Madison Square Park,Gray,"['Climbing', 'Foraging']",Indifferent,40.741805,-73.988448
+Madison Square Park,Gray,"['Running', 'Climbing', 'Foraging']",Indifferent,40.741862,-73.988797
+Union Square Park,Cinnamon,['Climbing'],Friendly,40.735981,-73.99062
+Union Square Park,Gray,"['Running', 'Eating', 'Foraging']",Indifferent,40.735847,-73.990115
+Union Square Park,Cinnamon,['Foraging'],Indifferent,40.735896,-73.99041
+Union Square Park,Gray,['Foraging'],Indifferent,40.73579,-73.990738
+Union Square Park,Gray,['Digging'],Indifferent,40.735941,-73.99063
+Union Square Park,Gray,['Climbing'],Unknown,40.73566,-73.990351
+Union Square Park,Gray,"['Climbing', 'Eating']",Unknown,40.735636,-73.990426
+Union Square Park,Gray,['Climbing'],Unknown,40.73566,-73.990351
+Union Square Park,Gray,"['Running', 'Digging']",Runs From,40.735587,-73.990367
+Union Square Park,Gray,"['Eating', 'Foraging']","Indifferent, Staring",40.73542,-73.990453
+Union Square Park,Cinnamon,['Foraging'],"Indifferent, Runs From (kids)",40.735514,-73.99033
+Union Square Park,Gray,"['Eating', 'Foraging']",Unknown,40.735945,-73.990201
+Union Square Park,Cinnamon,['Foraging'],Unknown,40.735947,-73.99023
+Union Square Park,Gray,"['Eating', 'Foraging']",Unknown,40.73604,-73.98966
+Union Square Park,Gray,"['Eating', 'Foraging']",Unknown,40.73618,-73.990683
+Union Square Park,Cinnamon,"['Eating', 'Foraging']",Unknown,40.736298,-73.990559
+Stuyvesant Square Park,Gray,['Foraging'],Indifferent,40.733753,-73.983682
+Stuyvesant Square Park,Gray,['Foraging'],Indifferent,40.733648,-73.983483
+Stuyvesant Square Park,Gray,['Foraging'],Indifferent,40.733631,-73.983419
+Stuyvesant Square Park,Gray,['Climbing'],Runs From,40.733546,-73.983263
+Stuyvesant Square Park,Gray,['Climbing'],Unknown,40.733591,-73.983263
+Stuyvesant Square Park,Gray,"['Climbing', 'Eating']",Indifferent,40.733648,-73.984294
+Stuyvesant Square Park,Gray,['Foraging'],Approaches,40.733737,-73.98438
+Stuyvesant Square Park,Gray,['Chasing'],Indifferent,40.733501,-73.984417
+Stuyvesant Square Park,Gray,['Chasing'],Indifferent,40.733575,-73.984391
+Stuyvesant Square Park,Gray,['Foraging'],Approaches,40.733506,-73.984553
+Stuyvesant Square Park,Gray,['Climbing'],Indifferent,40.733619,-73.984708
+Stuyvesant Square Park,Gray,['Chasing'],Indifferent,40.733648,-73.984638
+Stuyvesant Square Park,Gray,['Eating'],Unknown,40.733737,-73.984644
+Stuyvesant Square Park,Black,['Eating'],Approaches,40.733932,-73.984612
+Stuyvesant Square Park,Black,['Eating'],Unknown,40.734014,-73.984461
+Stuyvesant Square Park,Black,[],Unknown,40.734221,-73.984397
+Stuyvesant Square Park,Gray,['Eating'],Unknown,40.734083,-73.984322
+Stuyvesant Square Park,Gray,['Foraging'],Indifferent,40.73403,-73.984199
+Stuyvesant Square Park,Black,['Grooming'],Unknown,40.734204,-73.984242
+Stuyvesant Square Park,Gray,['Foraging'],Indifferent,40.734314,-73.984231
+Stuyvesant Square Park,Gray,[],Unknown,40.734261,-73.984284
+Stuyvesant Square Park,Gray,[],Unknown,40.734144,-73.984059
+Stuyvesant Square Park,Gray,['Foraging'],Indifferent,40.734335,-73.984038
+Stuyvesant Square Park,Black,['Foraging'],Indifferent,40.734383,-73.984118
+Stuyvesant Square Park,Black,['Foraging'],Indifferent,40.734356,-73.984062
+Washington Square Park,Gray,['Foraging'],Indifferent,40.730703,-73.995821
+Washington Square Park,Gray,['Foraging'],Indifferent,40.730638,-73.995784
+Washington Square Park,Gray,['Foraging'],Indifferent,40.730528,-73.995891
+Washington Square Park,Gray,['Foraging'],Indifferent,40.730394,-73.996009
+Washington Square Park,Gray,[],Indifferent,40.730341,-73.996052
+Washington Square Park,Gray,[],Indifferent,40.7303,-73.996106
+Washington Square Park,Gray,[],Indifferent,40.730247,-73.996175
+Washington Square Park,Gray,[],Indifferent,40.730231,-73.996138
+Washington Square Park,Gray,['Foraging'],Indifferent,40.730223,-73.996132
+Washington Square Park,Gray,[],Indifferent,40.730077,-73.996277
+Washington Square Park,Gray,['Chasing'],Indifferent,40.729858,-73.996843
+Washington Square Park,Gray,['Chasing'],Indifferent,40.72985,-73.996778
+Washington Square Park,Gray,['Chasing'],Indifferent,40.729822,-73.996816
+Washington Square Park,Gray,['Chasing'],Indifferent,40.729809,-73.996762
+Washington Square Park,Gray,['Chasing'],Indifferent,40.729939,-73.997068
+Washington Square Park,Gray,[],Indifferent,40.729976,-73.997154
+Washington Square Park,Gray,[],Indifferent,40.72996,-73.997079
+Washington Square Park,Gray,[],Indifferent,40.729927,-73.997036
+Washington Square Park,Gray,[],Indifferent,40.729988,-73.997106
+Washington Square Park,Gray,[],Indifferent,40.72998,-73.997031
+Washington Square Park,Gray,[],Indifferent,40.730318,-73.997213
+Washington Square Park,Gray,[],Indifferent,40.730301,-73.997251
+Washington Square Park,Gray,[],Indifferent,40.730334,-73.997589
+Washington Square Park,Gray,[],Indifferent,40.730411,-73.997589
+Washington Square Park,Gray,[],Indifferent,40.730395,-73.997535
+Washington Square Park,Gray,[],Indifferent,40.730411,-73.997766
+Washington Square Park,Gray,[],Indifferent,40.731031,-73.999122
+Washington Square Park,Gray,[],Indifferent,40.731504,-73.998977
+Washington Square Park,Gray,[],Indifferent,40.731548,-73.998842
+Washington Square Park,Gray,[],Indifferent,40.731608,-73.998928
+Washington Square Park,Gray,[],Indifferent,40.731503,-73.999014
+Washington Square Park,Gray,[],Indifferent,40.731552,-73.998788
+Washington Square Park,Gray,[],Indifferent,40.731952,-73.998647
+Washington Square Park,Gray,[],Indifferent,40.731936,-73.998598
+Washington Square Park,Gray,[],Indifferent,40.732001,-73.998491
+Washington Square Park,Gray,['Foraging'],Indifferent,40.731974,-73.998482
+Washington Square Park,Gray,[],Indifferent,40.731861,-73.998122
+Washington Square Park,Gray,[],Indifferent,40.731804,-73.997999
+Washington Square Park,Gray,[],Indifferent,40.731747,-73.997859
+Washington Square Park,Gray,[],Indifferent,40.731665,-73.997747
+Washington Square Park,Gray,[],Indifferent,40.731548,-73.99758
+Washington Square Park,Gray,[],Indifferent,40.731389,-73.997231
+Washington Square Park,Gray,[],Indifferent,40.7312,-73.996805
+Washington Square Park,Gray,[],Indifferent,40.731119,-73.996655
+Washington Square Park,Gray,[],Indifferent,40.731103,-73.996601
+Washington Square Park,Gray,[],Indifferent,40.73092,-73.996242
+Washington Square Park,Gray,[],Indifferent,40.730782,-73.996017
+John V. Lindsay East River Park,Gray,"['Running', 'Eating']",Indifferent,40.725738,-73.972105
+John V. Lindsay East River Park,Black,"['Running', 'Eating (peanuts)']",Unknown,40.722614,-73.972894
+John V. Lindsay East River Park,Gray,"['Climbing', 'Watching #2']",Approaches,40.72263,-73.973001
+John V. Lindsay East River Park,Gray,"['Running', 'Chasing', 'Eating']",Unknown,40.72263,-73.973109
+John V. Lindsay East River Park,Gray,"['Eating', 'Foraging']",Approaches,40.722614,-73.973033
+John V. Lindsay East River Park,Gray,"['Eating', 'Foraging']",Approaches,40.722173,-73.97272
+John V. Lindsay East River Park,Gray,"['Climbing', 'Foraging']",Indifferent,40.719379,-73.973504
+John V. Lindsay East River Park,Gray,"['Climbing', 'Foraging']",Indifferent,40.71935,-73.973445
+John V. Lindsay East River Park,Gray,['Climbing'],Unknown,40.721923,-73.974121
+John V. Lindsay East River Park,Gray,['Eating'],Approaches,40.724011,-73.97313
+John V. Lindsay East River Park,Gray,"['Climbing', 'Eating', 'Foraging']",Indifferent,40.724608,-73.972841
+John V. Lindsay East River Park,Gray,"['Eating', 'Foraging']",Runs From,40.724774,-73.97275
+Seward Park,Gray,['Eating'],Runs From,40.715415,-73.989567
+Seward Park,Gray,['Eating'],Indifferent,40.715484,-73.989299
+Seward Park,Gray,['Foraging'],Runs From,40.714749,-73.989577
+Seward Park,Gray,['Climbing'],Approaches,40.71468,-73.989776
+Seward Park,Gray,"['Climbing', 'Foraging']",Approaches,40.714846,-73.989679
+Seward Park,Gray,"['Running', 'Chasing']",Indifferent,40.715033,-73.989609
+Seward Park,Gray,"['Running', 'Chasing']",Indifferent,40.715208,-73.989534
+Corlears Hook Park,Gray,"['Running', 'Climbing', 'Eating']",Runs From,40.712159,-73.979415
+Corlears Hook Park,Gray,"['Eating', 'Foraging']",Indifferent,40.712199,-73.979519
+Corlears Hook Park,Gray,[],Unknown,40.712118,-73.97968
+Corlears Hook Park,Gray,[],Unknown,40.712179,-73.979776
+Corlears Hook Park,Gray,[],Unknown,40.712216,-73.979857
+Corlears Hook Park,Gray,['Ear scratching'],Unknown,40.712224,-73.979669
+Corlears Hook Park,Gray,[],Unknown,40.71224,-73.979744
+Corlears Hook Park,Gray,['Frolicking'],Unknown,40.711927,-73.979658
+Corlears Hook Park,Gray,"['Running', 'Climbing', 'Scratching']",Unknown,40.711866,-73.97976
+Corlears Hook Park,Gray,"['Running', 'Climbing']",Approaches,40.71174,-73.980539
+Corlears Hook Park,Gray,['Posing'],Approaches,40.711442,-73.978354
+Corlears Hook Park,Gray,['Guarding'],Defensive,40.711316,-73.978343
+Corlears Hook Park,Gray,"['Running', 'Chasing', 'Climbing']",Unknown,40.711417,73.977767
+Corlears Hook Park,Gray,"['Running', 'Chasing', 'Climbing']",Unknown,40.711421,-73.977692
+Corlears Hook Park,Gray,"['Running', 'Chasing', 'Climbing']",Unknown,40.711409,-73.977719
+Corlears Hook Park,Cinnamon,['Foraging'],Indifferent,40.711303,-73.97759
+Columbus Park,Gray,"['Climbing', 'Eating', 'Foraging']",Approaches,40.714867,-74.000236
+Columbus Park,Gray,"['Running', 'Foraging']",Unknown,40.7159,-74.000167
+Columbus Park,Gray,[],Indifferent,40.714875,-74.000346
+Columbus Park,Gray,['Climbing'],Approaches,40.715779,-73.999887
+Teardrop Park,Gray,"['Running', 'Eating (or pretending to eat)']",Runs From,40.716335,-74.015612
+City Hall Park,Gray,['Foraging'],Unknown,40.712828,-74.005072
+City Hall Park,Gray,['Climbing'],Unknown,40.712938,-74.005152
+City Hall Park,Gray,['Climbing'],Unknown,40.712938,-74.005152
+City Hall Park,Gray,"['Eating', 'Burying']",Approaches,40.712893,-74.005233
+City Hall Park,Gray,"['Eating', 'Burying']",Approaches,40.712893,-74.005233
+City Hall Park,Gray,['Eating'],Approaches,40.712922,-74.005147
+City Hall Park,Gray,['Eating'],Approaches,40.712922,-74.005147
+City Hall Park,Gray,['Eating'],Approaches,40.713044,-74.005404
+City Hall Park,Gray,"['Climbing', 'Foraging']","Indifferent, Runs From",40.712836,-74.005662
+City Hall Park,Gray,['Running'],Indifferent,40.712881,-74.005823
+City Hall Park,Gray,"['Eating', 'Foraging']",Indifferent,40.712995,-74.005963
+City Hall Park,Gray,['Very carefully watching a cat'],Indifferent,40.713044,-74.006242
+City Hall Park,Gray,['Chattering'],Indifferent,40.713276,-74.006323
+City Hall Park,Gray,"['Eating (nuts)', 'Foraging']","Approaches, Runs From",40.713339,-74.006313
+City Hall Park,Gray,['Running'],Unknown,40.713518,-74.006308
+City Hall Park,Gray,"['Climbing', 'Foraging']",Watching,40.71312,-74.006862
+City Hall Park,Gray,"['Eating', 'Foraging']",Indifferent,40.712872,-74.006878
+City Hall Park,Gray,"['Eating', 'Foraging']",Indifferent,40.712872,-74.006878
+Battery Park,Gray,[],Interested in,40.704053,-74.01612
+Battery Park,Gray,"['Climbing', 'Balancing on fencing']",Unknown,40.704011,-74.016134
+Battery Park,Gray,[],Indifferent,40.703897,-74.016118
+Battery Park,,[],Cautious of,40.703885,-74.016161
+Battery Park,Gray,[],Unknown,40.703848,-74.016134
+Battery Park,Cinnamon,"[""Chillin'"", 'Rubbing butt on ground']",Unknown,40.703882,-74.015955
+Battery Park,Cinnamon,['Running'],Runs From,40.704211,-74.015859
+Battery Park,Gray,['Foraging'],Unknown,40.704142,-74.015837
+Battery Park,Gray,['Foraging'],Unknown,40.704175,-74.015306
+Battery Park,Gray,['Running'],Indifferent,40.704171,-74.015242
+Battery Park,Gray,['Foraging'],Indifferent,40.704468,-74.014774
+Battery Park,Gray,['Foraging'],Indifferent,40.704453,-74.014757
+Battery Park,Gray,['Eating'],Indifferent,40.70442,-74.014741
+Battery Park,Gray,['Sticking out of a tree'],Indifferent,40.704188,-74.014853
+Battery Park,Gray,['Chasing'],Unknown,40.70352,-74.015273
+Battery Park,Gray,['Chasing'],Unknown,40.703487,-74.015278
+Battery Park,Gray,"[""Hangin' with #13 & #14""]",Unknown,40.703989,-74.015202
+Battery Park,Gray,[],Unknown,40.703383,-74.015584
+Battery Park,Gray,['Climbing (tree)'],Unknown,40.70295,-74.015813
+Battery Park,Cinnamon,[],Unknown,40.702934,-74.015775
+Battery Park,Gray,['Snacking in a tree'],Unknown,40.702922,-74.016629
+Battery Park,Cinnamon,[],Unknown,40.702411,-74.015896
+Battery Park,Gray,['Prancing about'],Unknown,40.702313,-74.015644
+Battery Park,Gray,['Climbing fence'],Unknown,40.702467,-74.015757
+Battery Park,Gray,[],Unknown,40.702597,-74.016132
+Battery Park,Gray,['Climbing fence'],Unknown,40.702618,-74.016556
+Msgr. McGolrick Park,Gray,['battery'],Staring,40.725308,-73.942789
+Msgr. McGolrick Park,Gray,"['Climbing', 'Foraging', 'Self-cleaning']",Indifferent,40.725511,-73.943609
+Msgr. McGolrick Park,Gray,['Chasing'],Approaches,40.725511,-73.943448
+Msgr. McGolrick Park,Gray,['Climbing'],Unknown,40.725478,-73.944113
+Msgr. McGolrick Park,Gray,['Eating'],Unknown,40.725527,-73.943974
+Msgr. McGolrick Park,Gray,['Eating'],Approaches,40.725397,-73.944124
+Msgr. McGolrick Park,Gray,['Climbing'],Unknown,40.725413,-73.943984
+Msgr. McGolrick Park,Gray,['Climbing (down)'],Unknown,40.724755,-73.944006
+Msgr. McGolrick Park,Gray,['Climbing (down)'],Unknown,40.723974,-73.943845
+Msgr. McGolrick Park,Gray,['Climbing (down)'],Unknown,40.723462,-73.943952
+Msgr. McGolrick Park,Gray,['Climbing (down)'],Unknown,40.725372,-73.943652
+Msgr. McGolrick Park,Gray,['Sitting'],Indifferent,40.725364,-73.943512
+Msgr. McGolrick Park,Gray,['Running'],Runs From,40.725397,-73.943297
+Msgr. McGolrick Park,Gray,['Running'],Indifferent,40.725197,-73.943273
+McCarren Park,Cinnamon,['Eating'],Indifferent,40.72167,-73.953364
+McCarren Park,Gray,['Eating'],Approaches,40.721768,-73.953192
+McCarren Park,Gray,['Running'],Runs From,40.721662,-73.953278
+McCarren Park,Gray,['Climbing'],Runs From,40.721857,-73.953139
+McCarren Park,Cinnamon,['Running'],Approaches,40.721941,-73.952947
+McCarren Park,Cinnamon,['Climbing'],Approaches,40.722039,-73.952796
+McCarren Park,Cinnamon,['Chasing'],Approaches,40.72147,-73.952857
+McCarren Park,Cinnamon,['Running'],Runs From,40.721713,-73.95305
+McCarren Park,Gray,"['Eating', 'Foraging']",Indifferent,40.721933,-73.953147
+McCarren Park,Gray,['Climbing'],Runs From,40.722283,-73.953115
+McCarren Park,Gray,['Running'],Runs From,40.722698,-73.953198
+McCarren Park,Gray,"['Eating', 'Foraging']",Indifferent,40.722819,-73.952095
+McCarren Park,Gray,['Climbing'],Indifferent,40.722966,-73.951987
+McCarren Park,Cinnamon,"['Climbing', 'Sitting in short tree']",Indifferent,40.723136,-73.951794
+McCarren Park,Gray,['Eating'],Indifferent,40.723071,-73.951697
+McCarren Park,Cinnamon,"['Foraging', 'Jumping']",Indifferent,40.723006,-73.951655
+McCarren Park,Gray,['Chilling'],Indifferent,40.722962,-73.951752
+McCarren Park,Cinnamon,['Hanging'],Indifferent,40.722603,-73.951449
+McCarren Park,Cinnamon,"['Running', 'Climbing']",Unknown,40.721247,-73.951609
+McCarren Park,Gray,['Climbing'],Indifferent,40.720606,-73.952769
+McCarren Park,Gray,"['Chasing', 'Climbing']",Indifferent,40.720582,-73.952694
+McCarren Park,Gray,['Climbing'],Indifferent,40.720533,-73.95272
+McCarren Park,Gray,['Climbing'],Indifferent,40.720488,-73.952806
+McCarren Park,Gray,"['Eating', 'Foraging']",Indifferent,40.720458,-73.954244
+McCarren Park,Gray,['Foraging'],Skittish to humans,40.720018,-73.953442
+McCarren Park,Gray,"['Running', 'Foraging']",Indifferent,40.720026,-73.953652
+McCarren Park,Gray,"['Eating (bread crumbs)', 'Foraging']",Indifferent,40.719777,-73.952774
+McCarren Park,Gray,['Running'],Indifferent,40.720114,-73.952768
+McCarren Park,Gray,['Hanging out'],Runs From,40.719944,-73.952505
+McCarren Park,Gray,['Foraging'],Indifferent,40.720448,-73.952521
+McCarren Park,Cinnamon,['Foraging'],Indifferent,40.720412,-73.952353
+McCarren Park,Gray,['Foraging'],Indifferent,40.720372,-73.952326
+McCarren Park,Gray,['Foraging'],Indifferent,40.720749,-73.951891
+McCarren Park,Cinnamon,['Sleeping (Dead?)'],Indifferent,40.721181,-73.951255
+McCarren Park,Cinnamon,['Sleeping (Dead?)'],Unknown,40.721181,-73.951255
+McCarren Park,Cinnamon,['Eating (tortilla/chip)'],Unknown,40.72112,-73.95104
+McCarren Park,Gray,['Running'],Indifferent,40.721315,-73.950943
+McCarren Park,Gray,['Eating'],Unknown,40.721258,-73.950799
+McCarren Park,Gray,['Eating'],Unknown,40.721217,-73.95077
+McCarren Park,Cinnamon,['Foraging'],Indifferent,40.721173,-73.950781
+McCarren Park,Cinnamon,"['Running', 'Foraging']",Indifferent,40.721161,-73.950732
+McCarren Park,Gray,['Climbing'],Indifferent,40.721124,-73.950797
+McCarren Park,Gray,"['Running', 'Chasing', 'Climbing']",Indifferent,40.721026,-73.950765
+McCarren Park,Gray,['Foraging'],Runs From,40.719376,-73.952326
