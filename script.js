@@ -189,7 +189,6 @@ function drawParkMap() {
       tooltip.transition().duration(500).style("opacity", 0);
     })
     .on("click", function (event, d) {
-    tooltip.style("opacity", 0);
     onColorClick(d.color);
   });
 
@@ -300,7 +299,6 @@ function drawSquirrelColors(park) {
       tooltip.transition().duration(500).style("opacity", 0);
     })
     .on("click", function (event, d) {
-    tooltip.style("opacity", 0); // <- Hide tooltip on click
     onColorClick(d.color);
     });
 
